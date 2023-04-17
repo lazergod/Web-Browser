@@ -1,0 +1,11 @@
+C:\Users\itzsi\source\repos\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Users\itzsi\source\repos\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\itzsi\source\repos\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\itzsi\source\repos\Web Browser\obj\Debug\Web Browser.csproj.AssemblyReference.cache
+C:\Users\itzsi\source\repos\Web Browser\obj\Debug\Web Browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzsi\source\repos\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Users\itzsi\source\repos\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\itzsi\source\repos\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+C:\Users\itzsi\source\repos\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\itzsi\source\repos\Web Browser\obj\Debug\Web Browser.exe
+C:\Users\itzsi\source\repos\Web Browser\obj\Debug\Web Browser.pdb
